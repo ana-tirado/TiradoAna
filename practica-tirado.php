@@ -26,3 +26,5 @@ function restar($a, $b) {
 	return $a - $b;
 }
 ?>
+
+// Comentario de prueba: he modificado el archivo para detectar cambios
